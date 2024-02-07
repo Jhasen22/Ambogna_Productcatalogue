@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "Infinix Note 12 G96",
+        "price": 8999.00,
+        "description": "8GB RAM,Helio G96,128/256 storage"
+    },
+    {
+        "id": 2,
+        "name": "Infinix Moi Air 1 Pro",
+        "price": 399.00,
+        "description": "4.0 Hrs Single Earphone Battery • 20hrs Total Playing Time • 13mm Dynamic Driver"
+    }
+]
